@@ -1,0 +1,128 @@
+body { 
+    background-image: url("photo/background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+	background-size: cover; 
+}
+
+h1 {
+   text-shadow: -1px -1px #FFF,
+                -2px -2px #FFF,
+                -1px 1px #FFF,
+                -2px 2px #FFF,
+                 1px 1px #FFF,
+                 2px 2px #FFF,
+                 1px -1px #FFF,
+                 2px -2px #FFF,
+                -3px -3px 2px #BBB,
+                -3px 3px 2px #BBB,
+                 3px 3px 2px #BBB,
+                 3px -3px 2px #BBB;
+  	color: steelblue;
+  	transition: all 1s;
+  	text-align: center;
+  	padding-top: 1cm;
+  }
+
+
+.films{
+        
+	color: rgb(245, 5, 53);
+	font-family: "Helvetica", sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	opacity: 100;
+	font-style: italic; 
+	padding-left: 60px;
+	padding-bottom: 1cm;
+	padding-top: 1cm;
+
+}
+  
+.photo{
+	padding-left: 1150px;
+	z-index: 1;
+  height: 6.4cm;
+	position:absolute;
+	
+}
+
+#first{
+	padding-top: 2cm;
+	opacity: 0.8;
+ 	background: rgb(150, 145, 150);
+ 	padding: 5px; 
+ 	border: 2px solid CornflowerBlue;
+  	border-radius: 3px;
+
+
+}
+
+#second{
+	padding-top: 2cm;
+	opacity: 0.8;
+ 	background: rgb(150, 145, 150);
+ 	padding: 5px; 
+ 	border: 2px solid CornflowerBlue;
+  	border-radius: 3px;
+  
+}
+
+#third{
+	padding-top: 2cm;
+	opacity: 0.8;
+ 	background: rgb(150, 145, 150);
+ 	padding: 5px; 
+ 	border: 2px solid CornflowerBlue;
+  	border-radius: 3px;
+  
+
+}
+
+#fourth{
+	 padding-top: 2cm;
+	 opacity: 0.8;
+ 	 background: rgb(150, 145, 150);
+ 	 padding: 5px; 
+ 	 border: 2px solid CornflowerBlue;
+  	 border-radius: 3px;
+  
+}
+
+#info{
+  	text-shadow: -1px -1px #000,
+               0 1px 0 #444;
+  	color: white;
+  	transition: all 1s;
+  	font-size: 20px;
+  	padding-left: 10cm;
+  }
+
+#hobbies
+{
+	text-shadow: -1px -1px #000,
+               0 1px 0 #444;
+  	color: white;
+  	transition: all 1s;
+  	font-size: 20px;
+    padding-left: 12cm;
+}
+
+#ava
+{
+	padding-right: 7cm;
+
+}
+
+#movi{
+	 color: white;
+   font-size: 30px;
+  padding-top: 6cm;
+}
+
+#home{
+  color: white;
+  font-size: 30px;
+  padding-top: 1cm;
+}
